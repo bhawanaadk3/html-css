@@ -1,0 +1,13 @@
+.box-wrapper{
+    background-color: rgb(14, 155, 68) ;
+    column-gap: 10px; 
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+}
+.box{
+    background-color: rgb(221, 0, 255);
+    width: 100px;
+    height : 100px;
+}
